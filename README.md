@@ -1,2 +1,2 @@
 # PythonFullReview
-Full Review Exercise For Generative AI Engineering with Python
+Full Review Exercises and Course For Generative AI Engineering with Python
